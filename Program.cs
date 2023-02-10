@@ -10,6 +10,7 @@ namespace Teste
     {
         static void Main(string[] args)
         {
+            string nome = "kemy";
             Console.WriteLine("Olá Mundo");
         }
     }
