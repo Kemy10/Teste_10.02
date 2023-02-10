@@ -10,12 +10,7 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            string nome = "kemy";
-            Console.WriteLine("Olá Mundo");
-
-            Console.WriteLine("yo quiero mi casa");
-
-            string teste = "Meio dia nós vamos embora";
+            
         }
     }
 }
