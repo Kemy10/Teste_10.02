@@ -14,6 +14,8 @@ namespace Teste
             Console.WriteLine("Olá Mundo");
 
             Console.WriteLine("yo quiero mi casa");
+
+            string teste = "Meio dia nós vamos embora";
         }
     }
 }
